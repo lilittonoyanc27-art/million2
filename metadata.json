@@ -1,0 +1,6 @@
+{
+  "name": "Поле чудес: Испанский и Армянский",
+  "description": "Интерактивная игра Поле чудес для двух игроков по изучению испанских глаголов (HABLAR, COMER, VIVIR, SER, ESTAR) с переводом на армянский язык.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
